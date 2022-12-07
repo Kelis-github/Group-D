@@ -8,7 +8,7 @@ git add *
 git status
 git commit -m "<commit text>"
 git push or git push -u origin <branch name>
-
+//for a branch created locally, use git push -u origin <name of local branch> command 
 git branch//list of branches
 git checkout //branch status
 git branch <branch name to create>
