@@ -1,0 +1,4 @@
+git clone <url>
+git cd <name of remote repo>
+git status
+git add *
