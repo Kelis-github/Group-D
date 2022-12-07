@@ -1,4 +1,18 @@
+****
+cmd mkdir <folder name>
+cd <folder name>
 git clone <url>
 git cd <name of remote repo>
 git status
 git add *
+git status
+git commit -m "<commit text>"
+git push or git push -u origin <branch name>
+
+git branch//list of branches
+git checkout //branch status
+git branch <branch name to create>
+git fetch
+get merge
+git pull
+
