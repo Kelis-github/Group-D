@@ -3,6 +3,7 @@ cmd mkdir <folder name>
 cd <folder name>
 git clone <url>
 git cd <name of remote repo>
+git branch checkout <name of branch>
 git status
 git add *
 git status
