@@ -16,4 +16,4 @@ git branch <branch name to create>
 git fetch
 get merge
 git pull
-
+git branch -r # list remote branches
